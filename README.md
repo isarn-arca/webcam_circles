@@ -3,15 +3,15 @@ Circle detection from online webcam images
 
 **STEP 1: Fork the repository:**
 
-https://github.com/beta-robots/webcam_point_features
+https://github.com/beta-robots/webcam_circles
 
 **STEP 2: Clone the repository:**
 
-$ git clone https://github.com/beta-robots/webcam_point_features.git
+$ git clone https://github.com/beta-robots/webcam_circles.git
 
 **STEP 3: Enter in the local folder webcam_point_features:**
 
-$ cd webcam_point_features
+$ cd webcam_circles
 
 **STEP 4: Create the directory "buil" in the local folder webcam_point_features:**
 
@@ -29,8 +29,8 @@ $ make
 
 **STEP 7: Execute:**
 
-$ ./point_features
+$ ./circle_detector
 
 **Comment:**
 
-You can see in this repository (folder "Images") the capture images of the webcam_point_features
+You can see in this repository (folder "Images") the capture images of the webcam_circles
