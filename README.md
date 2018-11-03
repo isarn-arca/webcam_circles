@@ -34,3 +34,7 @@ $ ./circle_detector
 **Comment:**
 
 You can see in this repository (folder "Images") the capture images of the webcam_circles
+
+**Explanation about Hough Transform**
+
+We can use the Hough Tranform to detect lines and circular shapes.
