@@ -1,35 +1,35 @@
 # webcam_circles
 Circle detection from online webcam images
 
-**STEP 1: Fork the repository:**
+- **STEP 1: Fork the repository:**
 
 https://github.com/beta-robots/webcam_circles
 
-**STEP 2: Clone the repository:**
+- **STEP 2: Clone the repository:**
 
-$ git clone https://github.com/beta-robots/webcam_circles.git
+`$ git clone https://github.com/beta-robots/webcam_circles.git`
 
-**STEP 3: Enter in the local folder webcam_point_features:**
+- **STEP 3: Enter in the local folder webcam_point_features:**
 
-$ cd webcam_circles
+`$ cd webcam_circles`
 
-**STEP 4: Create the directory "buil" in the local folder webcam_point_features:**
+- **STEP 4: Create the directory "buil" in the local folder webcam_point_features:**
 
-$ mkdir build 
+`$ mkdir build`
 
-**STEP 5: Enter in the directory "build":**
+- **STEP 5: Enter in the directory "build":**
 
-$ cd build
+`$ cd build`
 
-**STEP 6: Compile:**
+- **STEP 6: Compile:**
 
-$ cmake ..
+`$ cmake ..`
 
-$ make
+`$ make`
 
-**STEP 7: Execute:**
+- **STEP 7: Execute:**
 
-$ ./circle_detector
+`$ ./circle_detector`
 
 **Comment:**
 
