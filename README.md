@@ -37,4 +37,6 @@ You can see in this repository (folder "Images") the capture images of the webca
 
 **Explanation about Hough Transform**
 
-We can use the Hough Tranform to detect lines and circular shapes.
+We can use the Hough Tranform to detect lines and circular shapes. The follow steps to do Hough Transform for circles are:
+- create the accumulator space, which is made up of a cell for each pixel. Initially each cell is set to 0
+- For each edge point (i, j) in the image, increment all cells which according to the equation of a circle ( i − a ) 2 + ( j − b ) 2 = r 2 {\displaystyle (i-a)^{2}+(j-b)^{2}=r^{2}} {\displaystyle (i-a)^{2}+(j-b)^{2}=r^{2}} could be the center of a circle
