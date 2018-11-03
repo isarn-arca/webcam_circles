@@ -42,3 +42,9 @@ We can use the Hough Tranform to detect lines and circular shapes. The follow st
 - For each edge point (i, j) in the image, increment all cells which according to the equation of a circle (i-a)² + (j-b)² = r² could be the center of a circle
 - For each possible value of a {\displaystyle a} a found in the previous step, find all possible values of b {\displaystyle b} b which satisfy the equation
 - Search for local maxima in the accumulator space. These cells represent circles that were detected by the algorithm
+
+## Tips
+
+http://homepages.inf.ed.ac.uk/rbf/HIPR2/hough.htm
+
+https://en.wikipedia.org/wiki/Hough_transform
